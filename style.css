@@ -1,0 +1,99 @@
+.first-part{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 290px;
+}
+.half-width{
+    width: 40%;
+}
+.first-part-img{
+    height: 400px;
+}
+.tittle-part{
+    border-left: 4px solid;
+    border-image: linear-gradient(180deg, green, aqua);
+    border-image-slice: 1;
+}
+.orange-color{
+    color: orange;
+}
+.explore-btn{
+    height: 40px;
+    width: 110px;
+    background: linear-gradient(orange,red);
+    border-radius: 5px;
+}
+.second-part{
+    
+}
+.all-three{
+    display: flex;
+    justify-content: center;
+
+}
+.left-img{
+    height: 100px;
+    width: 100px;
+}
+.one-third{
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 380px;
+    width: 15%;
+    margin: 15px;
+}
+.second-heading{
+    text-align: center;
+}
+.third-part{
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
+.third-img{
+    width: 350px;
+    height: 335px;
+    border-radius: 5px;
+    margin-left: 280px;
+    
+}
+.third-btn{
+    height: 40px;
+    width: 210px;
+    background-color: tomato;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.fourth-part{
+    display: flex;
+    justify-content: center;
+    
+}
+.fourth-img{
+    width: 350px;
+    height: 335px;
+    border-radius: 5px;
+    margin-left: 110px;
+}
+.fourth-desc{
+    margin-left: 450px;
+}
+.footer{
+    background-color: black;
+    color: white;
+}
+.last-center{
+   text-align: center;
+   height: 120px;
+}
+.green{
+    background-color: #a6dba6;
+}
+.pink{
+    background-color: rgb(238, 185, 211);
+}
+.yellow{
+    background-color: rgb(230, 230, 207);
+}
